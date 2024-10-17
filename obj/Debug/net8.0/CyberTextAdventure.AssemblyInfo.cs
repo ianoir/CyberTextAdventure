@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberTextAdventure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a88a6fb90bb699b65a07239a5e1b457bd7e22b23")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberTextAdventure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberTextAdventure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

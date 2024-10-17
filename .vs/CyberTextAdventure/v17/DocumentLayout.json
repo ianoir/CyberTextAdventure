@@ -1,42 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\",
+  "WorkspaceRootPath": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\gmefilegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmefilegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\gmeproggen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmeproggen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\gmeservergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmeservergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\playergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\playergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:playergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\gmefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\gmeprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmeservergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmeservergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmeproggen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmeproggen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmefilegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmefilegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmenetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmenetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmenetworkgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmenetworkgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmeprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmeprog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\gmeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\gmeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:gmeserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|c:\\users\\ian.tait\\documents\\scratch_disc\\oop-programs\\cybertextadventure\\cybertextadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFE88CB-0AC5-4D0D-8588-BF65847F9BDC}|CyberTextAdventure.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +58,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-17T09:34:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GmeNetworkGen.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeNetworkGen.cs",
+              "RelativeDocumentMoniker": "GmeNetworkGen.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeNetworkGen.cs",
+              "RelativeToolTip": "GmeNetworkGen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:28:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GmeNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeNetwork.cs",
+              "RelativeDocumentMoniker": "GmeNetwork.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeNetwork.cs",
+              "RelativeToolTip": "GmeNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:28:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GmeFileGen.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeFileGen.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeFileGen.cs",
               "RelativeDocumentMoniker": "GmeFileGen.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeFileGen.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeFileGen.cs",
               "RelativeToolTip": "GmeFileGen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GmeProgGen.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeProgGen.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeProgGen.cs",
               "RelativeDocumentMoniker": "GmeProgGen.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeProgGen.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeProgGen.cs",
               "RelativeToolTip": "GmeProgGen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GmeServerGen.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeServerGen.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeServerGen.cs",
               "RelativeDocumentMoniker": "GmeServerGen.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeServerGen.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeServerGen.cs",
               "RelativeToolTip": "GmeServerGen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,24 +140,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlayerGen.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\PlayerGen.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\PlayerGen.cs",
               "RelativeDocumentMoniker": "PlayerGen.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\PlayerGen.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\PlayerGen.cs",
               "RelativeToolTip": "PlayerGen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T09:00:37.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "GmeFile.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeFile.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeFile.cs",
               "RelativeDocumentMoniker": "GmeFile.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeFile.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeFile.cs",
               "RelativeToolTip": "GmeFile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,50 +166,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "GmeProg.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeProg.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeProg.cs",
               "RelativeDocumentMoniker": "GmeProg.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeProg.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeProg.cs",
               "RelativeToolTip": "GmeProg.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:59:48.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:59:48.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "GmeServer.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeServer.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeServer.cs",
               "RelativeDocumentMoniker": "GmeServer.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\GmeServer.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\GmeServer.cs",
               "RelativeToolTip": "GmeServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:59:30.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:59:30.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\Player.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:59:09.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\CyberTextAdventure\\Program.cs",
+              "ToolTip": "C:\\Users\\Ian.Tait\\Documents\\scratch_disc\\OOP-Programs\\CyberTextAdventure\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
